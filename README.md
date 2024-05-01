@@ -1,6 +1,6 @@
 ## Proyecto del Curso de JavaScript para Web: Crea páginas dinámicas
 
-![Alura-Midi] (ttps://github.com/Juan-prog-2022/alura-midi/blob/master/Captura%20de%20pantalla%202024-05-01%20120550.png)
+![Alura-Midi](ttps://github.com/Juan-prog-2022/alura-midi/blob/master/Captura%20de%20pantalla%202024-05-01%20120550.png)
 
 El proyecto del curso es el Alura Midi que es un instrumento musical de interfaz digital al cual le agregaremos las funcionalidades en el transcurso del curso. 
 
